@@ -1,2 +1,2 @@
 # Face_Alignment
-Implementation about advanced Face alignment (Face landmark detection)
+Implementation about advanced Face alignment methods(Face landmark detection)
