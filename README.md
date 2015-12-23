@@ -24,7 +24,7 @@ This repository is part of my recent project, including implementation of two fa
 <img src="./result/sample1.png" height=300px></img>
 <img src="./result/sample2.png" height=300px></img>
 <img src="./result/sample3.png" height=300px></img>
-###Real time face alighment on video
+###Real time face alignment on video
 <img src="./result/sample4.png" height=300px></img>
 <img src="./result/sample5.png" height=300px></img>
 
